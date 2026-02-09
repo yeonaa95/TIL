@@ -65,79 +65,10 @@
 ││∩│ ▓ ║∩田│║▓ ▓ ▓∩ ║                ﾟ･｡･ﾟ
 ```
 
-| 월  | 화  | 수  | 목  | 금  |
-| --- | --- | --- | --- | --- |
+| 월                                                                                                                                                                                     | 화                                                                                                                                                                                     | 수                                                                                                                                                                                     | 목                                                                                                                                                                                           | 금                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![20251201](https://img.shields.io/badge/01-fff#gh-light-mode-only)](./202512/20251201.md) [![20251201](https://img.shields.io/badge/01-222#gh-dark-mode-only)](./202512/20251201.md) | [![20251202](https://img.shields.io/badge/02-fff#gh-light-mode-only)](./202512/20251202.md) [![20251202](https://img.shields.io/badge/02-222#gh-dark-mode-only)](./202512/20251202.md) | [![20251203](https://img.shields.io/badge/03-fff#gh-light-mode-only)](./202512/20251203.md) [![20251203](https://img.shields.io/badge/03-222#gh-dark-mode-only)](./202512/20251203.md) | [![20251204](https://img.shields.io/badge/04-9664B4#gh-light-mode-only)](./202512/20251204.md) [![20251204](https://img.shields.io/badge/04-7A5FA8#gh-dark-mode-only)](./202512/20251204.md) | [![20251205](https://img.shields.io/badge/05-9664B4#gh-light-mode-only)](./202512/20251205.md) [![20251205](https://img.shields.io/badge/05-7A5FA8#gh-dark-mode-only)](./202512/20251205.md) | [![20251208](https://img.shields.io/badge/08-9664B4#gh-light-mode-only)](./202512/20251208.md) [![20251208](https://img.shields.io/badge/08-7A5FA8#gh-dark-mode-only)](./202512/20251208.md) | [![20251209](https://img.shields.io/badge/09-9664B4#gh-light-mode-only)](./202512/20251209.md) [![20251209](https://img.shields.io/badge/09-7A5FA8#gh-dark-mode-only)](./202512/20251209.md) | [![20251210](https://img.shields.io/badge/10-9664B4#gh-light-mode-only)](./202512/20251210.md) [![20251210](https://img.shields.io/badge/10-7A5FA8#gh-dark-mode-only)](./202512/20251210.md) | [![20251211](https://img.shields.io/badge/11-fff#gh-light-mode-only)](./202512/20251211.md) [![20251211](https://img.shields.io/badge/11-222#gh-dark-mode-only)](./202512/20251211.md) | [![20251212](https://img.shields.io/badge/12-9664B4#gh-light-mode-only)](./202512/20251212.md) [![20251212](https://img.shields.io/badge/12-7A5FA8#gh-dark-mode-only)](./202512/20251212.md) | [![20251222](https://img.shields.io/badge/22-9664B4#gh-light-mode-only)](./202512/20251222.md) [![20251222](https://img.shields.io/badge/22-7A5FA8#gh-dark-mode-only)](./202512/20251222.md) | [![20251223](https://img.shields.io/badge/23-fff#gh-light-mode-only)](./202512/20251223.md) [![20251223](https://img.shields.io/badge/23-222#gh-dark-mode-only)](./202512/20251223.md) | [![20251224](https://img.shields.io/badge/24-fff#gh-light-mode-only)](./202512/20251224.md) [![20251224](https://img.shields.io/badge/24-222#gh-dark-mode-only)](./202512/20251224.md) | ![20251225](https://img.shields.io/badge/25-910000#gh-light-mode-only) ![20251225](https://img.shields.io/badge/25-B41E00#gh-dark-mode-only) | ![20251226](https://img.shields.io/badge/26-ccc#gh-light-mode-only) ![20251226](https://img.shields.io/badge/26-444#gh-dark-mode-only) | [![20251229](https://img.shields.io/badge/29-9664B4#gh-light-mode-only)](./202512/20251229.md) [![20251229](https://img.shields.io/badge/29-7A5FA8#gh-dark-mode-only)](./202512/20251229.md) | [![20251230](https://img.shields.io/badge/30-fff#gh-light-mode-only)](./202512/20251230.md) [![20251230](https://img.shields.io/badge/30-222#gh-dark-mode-only)](./202512/20251230.md) | [![20251231](https://img.shields.io/badge/31-B41E00#gh-light-mode-only)](./202512/20251231.md) [![20251231](https://img.shields.io/badge/31-B41E00#gh-dark-mode-only)](./202512/20251231.md) |
 
-|
-[![20251201](https://img.shields.io/badge/01-fff#gh-light-mode-only)](./202512/20251201.md)
-[![20251201](https://img.shields.io/badge/01-222#gh-dark-mode-only)](./202512/20251201.md)
-|
-[![20251202](https://img.shields.io/badge/02-fff#gh-light-mode-only)](./202512/20251202.md)
-[![20251202](https://img.shields.io/badge/02-222#gh-dark-mode-only)](./202512/20251202.md)
-|
-[![20251203](https://img.shields.io/badge/03-fff#gh-light-mode-only)](./202512/20251203.md)
-[![20251203](https://img.shields.io/badge/03-222#gh-dark-mode-only)](./202512/20251203.md)
-|
-[![20251204](https://img.shields.io/badge/04-9664B4#gh-light-mode-only)](./202512/20251204.md)
-[![20251204](https://img.shields.io/badge/04-7A5FA8#gh-dark-mode-only)](./202512/20251204.md)
-|
-[![20251205](https://img.shields.io/badge/05-9664B4#gh-light-mode-only)](./202512/20251205.md)
-[![20251205](https://img.shields.io/badge/05-7A5FA8#gh-dark-mode-only)](./202512/20251205.md)
-|
-[![20251208](https://img.shields.io/badge/08-9664B4#gh-light-mode-only)](./202512/20251208.md)
-[![20251208](https://img.shields.io/badge/08-7A5FA8#gh-dark-mode-only)](./202512/20251208.md)
-|
-[![20251209](https://img.shields.io/badge/09-9664B4#gh-light-mode-only)](./202512/20251209.md)
-[![20251209](https://img.shields.io/badge/09-7A5FA8#gh-dark-mode-only)](./202512/20251209.md)
-|
-[![20251210](https://img.shields.io/badge/10-9664B4#gh-light-mode-only)](./202512/20251210.md)
-[![20251210](https://img.shields.io/badge/10-7A5FA8#gh-dark-mode-only)](./202512/20251210.md)
-|
-[![20251211](https://img.shields.io/badge/11-fff#gh-light-mode-only)](./202512/20251211.md)
-[![20251211](https://img.shields.io/badge/11-222#gh-dark-mode-only)](./202512/20251211.md)
-|
-[![20251212](https://img.shields.io/badge/12-9664B4#gh-light-mode-only)](./202512/20251212.md)
-[![20251212](https://img.shields.io/badge/12-7A5FA8#gh-dark-mode-only)](./202512/20251212.md)
-|
-[![20251222](https://img.shields.io/badge/22-9664B4#gh-light-mode-only)](./202512/20251222.md)
-[![20251222](https://img.shields.io/badge/22-7A5FA8#gh-dark-mode-only)](./202512/20251222.md)
-|
-[![20251223](https://img.shields.io/badge/23-fff#gh-light-mode-only)](./202512/20251223.md)
-[![20251223](https://img.shields.io/badge/23-222#gh-dark-mode-only)](./202512/20251223.md)
-|
-[![20251224](https://img.shields.io/badge/24-fff#gh-light-mode-only)](./202512/20251224.md)
-[![20251224](https://img.shields.io/badge/24-222#gh-dark-mode-only)](./202512/20251224.md)
-|
-![20251225](https://img.shields.io/badge/25-910000#gh-light-mode-only)
-![20251225](https://img.shields.io/badge/25-B41E00#gh-dark-mode-only)
-|
-![20251226](https://img.shields.io/badge/26-ccc#gh-light-mode-only)
-![20251226](https://img.shields.io/badge/26-444#gh-dark-mode-only)
-|
-[![20251222](https://img.shields.io/badge/22-9664B4#gh-light-mode-only)](./202512/20251222.md)
-[![20251222](https://img.shields.io/badge/22-7A5FA8#gh-dark-mode-only)](./202512/20251222.md)
-|
-[![20251223](https://img.shields.io/badge/23-fff#gh-light-mode-only)](./202512/20251223.md)
-[![20251223](https://img.shields.io/badge/23-222#gh-dark-mode-only)](./202512/20251223.md)
-|
-[![20251224](https://img.shields.io/badge/24-fff#gh-light-mode-only)](./202512/20251224.md)
-[![20251224](https://img.shields.io/badge/24-222#gh-dark-mode-only)](./202512/20251224.md)
-|
-![20251225](https://img.shields.io/badge/25-910000#gh-light-mode-only)
-![20251225](https://img.shields.io/badge/25-B41E00#gh-dark-mode-only)
-|
-![20251226](https://img.shields.io/badge/26-ccc#gh-light-mode-only)
-![20251226](https://img.shields.io/badge/26-444#gh-dark-mode-only)
-|
-[![20251229](https://img.shields.io/badge/29-9664B4#gh-light-mode-only)](./202512/20251229.md)
-[![20251229](https://img.shields.io/badge/29-7A5FA8#gh-dark-mode-only)](./202512/20251229.md)
-|
-[![20251230](https://img.shields.io/badge/30-fff#gh-light-mode-only)](./202512/20251230.md)
-[![20251230](https://img.shields.io/badge/30-222#gh-dark-mode-only)](./202512/20251230.md)
-|
-[![20251231](https://img.shields.io/badge/31-B41E00#gh-light-mode-only)](./202512/20251231.md)
-[![20251231](https://img.shields.io/badge/31-B41E00#gh-dark-mode-only)](./202512/20251231.md)
-|
 |
 |
 
