@@ -16,17 +16,16 @@
 　|人__）　　ｕ|　   ⸝ 　　⸝ 　　⸝ 　 　⸝　 ⸝ 　　⸝ 　　⸝
 　|⌒´　　　 ／    큰일났다   　⸝ 　⸝ 　　⸝ 　　⸝
 (⌒ー─’　 　）   보통이 아니야!
-
 ```
 
-| 월                                                                        | 화                                                                           | 수                                                                        | 목                                                                           | 금                                                                           |
-| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [![20260202](https://img.shields.io/badge/02-fff?)](./202602/20260202.md) | [![20260203](https://img.shields.io/badge/03-9664B4?)](./202602/20260203.md) | [![20260204](https://img.shields.io/badge/04-fff?)](./202602/20260204.md) | [![20260205](https://img.shields.io/badge/05-9664B4?)](./202602/20260205.md) | [![20260206](https://img.shields.io/badge/06-9664B4?)](./202602/20260206.md) |
-| [![20260209](https://img.shields.io/badge/09-fff?)](./202602/20260209.md) | [![20260210](https://img.shields.io/badge/10-fff?)](./202602/20260210.md)    | [![20260211](https://img.shields.io/badge/11-fff?)](./202602/20260211.md) | [![20260212](https://img.shields.io/badge/12-fff?)](./202602/20260212.md)    | [![20260213](https://img.shields.io/badge/13-fff?)](./202602/20260213.md)    |
-| [![20260216](https://img.shields.io/badge/16-ccc?)](./202602/20260216.md) | [![20260217](https://img.shields.io/badge/17-ccc?)](./202602/20260217.md)    | [![20260218](https://img.shields.io/badge/18-fff?)](./202602/20260218.md) | [![20260219](https://img.shields.io/badge/19-fff?)](./202602/20260219.md)    | [![20260220](https://img.shields.io/badge/20-fff?)](./202602/20260220.md)    |
-| [![20260223](https://img.shields.io/badge/23-fff?)](./202602/20260223.md) | [![20260224](https://img.shields.io/badge/24-fff?)](./202602/20260224.md)    | [![20260225](https://img.shields.io/badge/25-fff?)](./202602/20260225.md) | [![20260226](https://img.shields.io/badge/26-fff?)](./202602/20260226.md)    | [![20260227](https://img.shields.io/badge/27-fff?)](./202602/20260227.md)    |
+| 월                                                                                                                                                                                    | 화                                                                           | 수                                                                        | 목                                                                           | 금                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [![20260202](https://img.shields.io/badge/02-fff#gh-light-mode-only)](./202602/20260202.md)[![20260202](https://img.shields.io/badge/02-111#gh-dark-mode-only)](./202602/20260202.md) | [![20260203](https://img.shields.io/badge/03-9664B4?)](./202602/20260203.md) | [![20260204](https://img.shields.io/badge/04-fff?)](./202602/20260204.md) | [![20260205](https://img.shields.io/badge/05-9664B4?)](./202602/20260205.md) | [![20260206](https://img.shields.io/badge/06-9664B4?)](./202602/20260206.md) |
+| [![20260209](https://img.shields.io/badge/09-fff?)](./202602/20260209.md)[![20260202](https://img.shields.io/badge/09-222#gh-dark-mode-only)](./202602/20260202.md)                   | [![20260210](https://img.shields.io/badge/10-fff?)](./202602/20260210.md)    | [![20260211](https://img.shields.io/badge/11-fff?)](./202602/20260211.md) | [![20260212](https://img.shields.io/badge/12-fff?)](./202602/20260212.md)    | [![20260213](https://img.shields.io/badge/13-fff?)](./202602/20260213.md)    |
+| [![20260216](https://img.shields.io/badge/16-ccc?)](./202602/20260216.md)[![20260202](https://img.shields.io/badge/16-333#gh-dark-mode-only)](./202602/20260202.md)                   | [![20260217](https://img.shields.io/badge/17-ccc?)](./202602/20260217.md)    | [![20260218](https://img.shields.io/badge/18-fff?)](./202602/20260218.md) | [![20260219](https://img.shields.io/badge/19-fff?)](./202602/20260219.md)    | [![20260220](https://img.shields.io/badge/20-fff?)](./202602/20260220.md)    |
+| [![20260223](https://img.shields.io/badge/23-fff?)](./202602/20260223.md)                                                                                                             | [![20260224](https://img.shields.io/badge/24-fff?)](./202602/20260224.md)    | [![20260225](https://img.shields.io/badge/25-fff?)](./202602/20260225.md) | [![20260226](https://img.shields.io/badge/26-fff?)](./202602/20260226.md)    | [![20260227](https://img.shields.io/badge/27-fff?)](./202602/20260227.md)    |
 
----
+<br>
 
 ## [![202601](https://img.shields.io/badge/202601-B41E00?style=for-the-badge)](./202601)
 
@@ -53,7 +52,7 @@
 | [![20260119](https://img.shields.io/badge/19-fff?)](./202601/20260119.md) | [![20260120](https://img.shields.io/badge/20-fff?)](./202601/20260120.md) | [![20260121](https://img.shields.io/badge/21-fff?)](./202601/20260121.md) | [![20260122](https://img.shields.io/badge/22-fff?)](./202601/20260122.md)    | [![20260123](https://img.shields.io/badge/23-fff?)](./202601/20260123.md) |
 | [![20260126](https://img.shields.io/badge/26-fff?)](./202601/20260126.md) | [![20260127](https://img.shields.io/badge/27-fff?)](./202601/20260127.md) | [![20260128](https://img.shields.io/badge/28-fff?)](./202601/20260128.md) | [![20260129](https://img.shields.io/badge/29-fff?)](./202601/20260129.md)    | [![20260130](https://img.shields.io/badge/30-fff?)](./202601/20260130.md) |
 
----
+<br>
 
 ## [![202512](https://img.shields.io/badge/202512-9664B4?style=for-the-badge)](./202512)
 
@@ -74,7 +73,7 @@
 | [![20251222](https://img.shields.io/badge/22-9664B4?)](./202512/20251222.md) | [![20251223](https://img.shields.io/badge/23-fff?)](./202512/20251223.md)    | [![20251224](https://img.shields.io/badge/24-fff?)](./202512/20251224.md)    | ![20251225](https://img.shields.io/badge/25-910000?)                         | ![20251226](https://img.shields.io/badge/26-ccc?)                            |
 | [![20231229](https://img.shields.io/badge/29-9664B4?)](./202512/20251229.md) | [![20251230](https://img.shields.io/badge/30-fff?)](./202512/20251230.md)    | [![20251231](https://img.shields.io/badge/31-B41E00?)](./202512/20251231.md) |                                                                              |                                                                              |
 
----
+<br>
 
 ## [![202511](https://img.shields.io/badge/202511-9664B4?style=for-the-badge)](./202511)
 
