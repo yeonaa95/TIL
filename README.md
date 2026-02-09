@@ -2,7 +2,7 @@
 
 > 📚 **차곡차곡** 내 이야기 ![ICON - paw print](./images/icon_paw-print.png)
 
----
+<br>
 
 ## [![202602](https://img.shields.io/badge/202602-9664B4?style=for-the-badge)](./202602)
 
@@ -31,19 +31,18 @@
 ## [![202601](https://img.shields.io/badge/202601-B41E00?style=for-the-badge)](./202601)
 
 ```
-.　　　　　　　　　　　　　. 　　—̳͟͞͞ ☆
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  —̳͟͞͞ ☆　　⠀　　　⠀.
-　　　—̳͟͞͞ ☆
+ .　ﾟ　　　　　　　　　　　　. 　  　—̳͟͞͞ ★
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   —̳͟͞͞ ☆　　⠀　 .
+　　  　—̳͟͞͞ ★
 　　　　　　　　　　　.
-　　　˚　　　　　　　　ﾟ　　—̳͟͞͞ ☆　　　.
-—̳͟͞͞ ☆⠀　　　　∧w/)
+　　˚　　　　　　  　　ﾟ　  　—̳͟͞͞ ☆　　 　.
+—̳͟͞͞ ☆⠀　　　　∧w/)                   ﾟ
     　　　　彡・ ＼
     　　　　彡ヽ_＿)つ
 다다다     (つ　 /
     ⌒))　 /　   ⌒)　 ((⌒
     ))⌒ヽ(ノ￣し⌒(⌒
 ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
-
 ```
 
 | 월                                                                        | 화                                                                        | 수                                                                        | 목                                                                           | 금                                                                        |
@@ -92,5 +91,3 @@
 | [![20251110](https://img.shields.io/badge/10-fff?)](./202511/20251110.md) | [![20251111](https://img.shields.io/badge/11-fff?)](./202511/20251111.md) | [![20251112](https://img.shields.io/badge/12-fff?)](./202511/20251112.md) | [![20251213](https://img.shields.io/badge/13-fff?)](./202511/20251113.md) | ![20251114](https://img.shields.io/badge/14-ccc?)                            |
 | [![20251117](https://img.shields.io/badge/17-fff?)](./202511/20251117.md) | [![20251118](https://img.shields.io/badge/18-fff?)](./202511/20251118.md) | [![20251119](https://img.shields.io/badge/19-fff?)](./202511/20251119.md) | [![20251120](https://img.shields.io/badge/20-fff?)](./202511/20251120.md) | [![20251121](https://img.shields.io/badge/21-0047FF?)](./202511/20251121.md) |
 | [![20251124](https://img.shields.io/badge/24-fff?)](./202511/20251124.md) | [![20251125](https://img.shields.io/badge/25-fff?)](./202511/20251125.md) | [![20251126](https://img.shields.io/badge/26-fff?)](./202511/20251126.md) | [![20251127](https://img.shields.io/badge/27-fff?)](./202511/20251127.md) | [![20251128](https://img.shields.io/badge/28-fff?)](./202511/20251128.md)    |
-
----
