@@ -54,7 +54,7 @@
 
 <br>
 
-## [![202512](https://img.shields.io/badge/202512-910000?style=for-the-badge)](./202512)
+## [![202512](https://img.shields.io/badge/202512-9664B4?style=for-the-badge)](./202512)
 
 ```
 ☾    • ○    .•* 　 ✷·˚  * ·　 ˚ * .  · ⋆ *　.●
@@ -75,7 +75,7 @@
 
 <br>
 
-## [![202511](https://img.shields.io/badge/202511-0047FF?style=for-the-badge)](./202511)
+## [![202511](https://img.shields.io/badge/202511-9664B4?style=for-the-badge)](./202511)
 
 ```
 ° 　•　　.°•　　　 ✷ 　✨　　•　 ° ★ 　　• ☄ 　
